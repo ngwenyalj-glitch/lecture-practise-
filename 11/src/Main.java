@@ -14,4 +14,4 @@ void main() {
     }finally {
         IO.println("FINALLY");
     }IO.println("sth");
-}
+}//exception not handled 
